@@ -1,0 +1,29 @@
+# 🧠 Amazing Memory Game
+
+Welcome to my **Memory Game** – a fun, responsive, and easy-to-play browser game built using **HTML**, **CSS**, and **JavaScript**!
+
+## 🎮 About the Game
+
+Test your memory by matching pairs of cards! This lightweight game is designed with clean visuals, smooth animations, and is fully responsive so you can play it on both desktop and mobile devices.
+
+## 🚀 Features
+
+- ✅ Simple & addictive gameplay
+- 🎨 Stylish card flip animations
+- 📱 Responsive design for all screen sizes
+- ⚡ Built with pure HTML, CSS & JS – no libraries
+- 🧠 Great for practicing DOM manipulation and JavaScript event handling
+
+## 📁 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 💻 How to Play
+
+1. Click on any two cards to flip them.
+2. Try to remember their positions.
+3. Match all pairs with as few moves as possible.
+4. Refresh to play again!
+
