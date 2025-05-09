@@ -12,8 +12,7 @@ Here's a preview of the login page:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3fbbe312-365d-46fe-9a4b-d49bba3e2207
-" alt="Sidebar Screenshot 2" width="450" height="550" /></td>
+    <td><img src="https://github.com/user-attachments/assets/7cc06045-cedc-402d-8589-17da8d0d672e" alt="Sidebar Screenshot 2" width="450" height="550" /></td>
   </tr>
 </table>
 
