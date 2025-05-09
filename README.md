@@ -8,7 +8,7 @@ Test your memory by matching pairs of cards! This lightweight game is designed w
 
 ## 📸 Screenshots
 
-Here's a preview of the login page:
+Here's a preview of the  page:
 
 <table>
   <tr>
